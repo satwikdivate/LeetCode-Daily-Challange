@@ -24,3 +24,7 @@
         
         return isSameTree(p->left,q->left) && isSameTree(p->right,q->right);
     }
+
+    int main(){
+        cout<<"Shri Ganesh";
+    }
